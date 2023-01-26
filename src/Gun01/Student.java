@@ -7,5 +7,7 @@ public class Student {
             System.out.println("Hello "+i);
         }
         System.out.println("task 2 yapıldı");
+
+        System.out.println("hello again");
     }
 }
